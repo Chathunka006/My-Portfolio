@@ -10,7 +10,7 @@ header{
 header>section>h1{
     font-size:30px;
     color: white;
-    margin-left: 140px;
+    margin-left: 170px;
     margin-top:20px;
 }
 
@@ -21,7 +21,7 @@ header>section{
 header>nav{
     position: absolute;
     height: fit-content;
-    right: 140px;
+    right: 150px;
     top: 0;
     bottom: 0;
     margin: auto;
@@ -44,9 +44,9 @@ header>nav>ul>li>a{
 
     }
 header>nav>ul>li>a:hover{
-    color: blue;
+    color: #59A6EE;
 }
 header>section>h1:hover{
-    color: darkblue;
+    color: blue;
 
 }
