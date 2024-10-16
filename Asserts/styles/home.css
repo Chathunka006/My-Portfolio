@@ -1,6 +1,98 @@
 #Home{
     display: flex;
-    background-color: blue;
+    background-color: white;
     width: 100vw;
     height: 800px;
+}
+
+#Home>section:first-child>div:first-child>h1{
+    color:black;
+    font-size:70px;
+    margin-left:120px;
+    margin-top:110px;
+}
+
+#Home>section:first-child>div:first-child>h2{
+    color:#59A6EE;
+    font-size:80px;
+    margin-left:390px;
+    margin-top:-90px;
+}
+
+#Home>section:first-child>div:first-child>h3{
+    color:#59A6EE;
+    font-size:80px;
+    margin-left:120px;
+
+}
+
+#Home>section:first-child>div:first-child>h4{
+    color:black;
+    font-size:25px;
+    margin-left:120px;
+    margin-top:30px;
+    margin-right:240px;
+
+}
+
+#Home>section:first-child>div:first-child>h5{
+    color:black;
+    font-size:25px;
+    margin-left:120px;
+    margin-top:120px;
+}
+
+#Home>section:nth-child(2)>img{
+     width: 400px;
+     height: 400px;
+     transform:rotate(10deg);
+     margin-top:110px;
+     margin-right:130px;
+}
+
+#Home>section:nth-child(3)>div:first-child{
+     position: absolute;
+     width: 60px;
+     height: 60px;
+     background: black;
+     margin-top:630px;
+     right:1330px;
+}
+#Home>section:nth-child(3)>div:first-child>img{
+    margin-left:5px;
+    margin-top:5px;
+    height: 50px;
+
+}
+
+#Home>section:nth-child(3)>div:nth-child(2){
+     position: absolute;
+     width: 60px;
+     height: 60px;
+     background: black;
+     margin-top:630px;
+     right:1230px;
+}
+
+#Home>section:nth-child(3)>div:nth-child(2)>img{
+    margin-left:5px;
+    margin-top:5px;
+    height: 50px;
+
+}
+
+#Home>section:nth-child(3)>div:nth-child(3){
+     position: absolute;
+     width: 60px;
+     height: 60px;
+     background: black;
+     margin-top:630px;
+     right:1130px;
+}
+
+#Home>section:nth-child(3)>div:nth-child(3)>img{
+    margin-left:6px;
+    margin-top:5px;
+    height: 50px;
+
 }
