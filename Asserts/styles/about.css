@@ -1,0 +1,25 @@
+#About{
+    display: flex;
+    background-color: white;
+    width: 100vw;
+    height: 800px;
+}
+
+#About>section:nth-child(2)>div:first-child{
+    position: absolute;
+    width: 650px;
+    height: 590px;
+    background: #59A6EE;
+    margin-top:170px;
+    margin-left:430px;
+
+}
+
+#About>section:nth-child(3)>img{
+
+     width: 650px;
+     height: 650px;
+     margin-top:140px;
+     margin-left:-250px;
+
+}
