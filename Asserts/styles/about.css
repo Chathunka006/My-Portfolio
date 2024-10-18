@@ -6,7 +6,19 @@
 }
 
 #About>section:first-child>h1{
+    position:absolute;
+    font-size:70px;
+    margin-top:30px;
+    color:  #59A6EE;
 
+}
+
+#About>section:first-child>h3{
+    position:absolute;
+    font-size:21px;
+    margin-top:10px;
+    color:  black;
+    margin-left:-35px;
 
 }
 
@@ -17,16 +29,16 @@
     height: 590px;
     background: #59A6EE;
     margin-top:170px;
-    margin-left:430px;
+    margin-left:750px;
 
 }
 
 #About>section:nth-child(3)>img{
-
+     position:absolute;
      width: 650px;
      height: 650px;
      margin-top:140px;
-     margin-left:-250px;
+     margin-left:80px;
 
 }
 
@@ -39,24 +51,37 @@
 
 }
 
-#About>section:nth-child(4)>div:first-child>h4{
 
-     font-size:22px;
-     color: black;
-
-}
 
 #About>section:nth-child(4)>div:first-child{
 
      width:350px;
      height350px;
-     background:yellow;
      position:absolute;
-     margin-top:273px;
+     margin-top:169px;
      z-index:9999;
-     margin-left:278px;
+     margin-left:1040px;
 
 }
+
+#About>section:nth-child(4)>div:first-child>h4{
+     font-size:20px;
+     color:white;
+     margin-top:40px;
+
+}
+
+#About>section:nth-child(4)>section>button{
+     position:absolute;
+     color:white;
+     border-radius:20px;
+     background:black;
+     width:340px;
+     height:50px;
+     margin-left:910px;
+     margin-top:670px;
+}
+
 
 
 

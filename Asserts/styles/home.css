@@ -6,48 +6,55 @@
 }
 
 #Home>section:first-child>div:first-child>h1{
+    position:absolute;
     color:black;
     font-size:70px;
-    margin-left:120px;
-    margin-top:110px;
+    margin-left:-450px;
+    margin-top:70px;
 }
 
 #Home>section:first-child>div:first-child>h2{
+    position:absolute;
     color:#59A6EE;
     font-size:80px;
     margin-left:390px;
-    margin-top:-90px;
+    margin-top:60px;
 }
 
 #Home>section:first-child>div:first-child>h3{
+    position:absolute;
     color:#59A6EE;
     font-size:80px;
-    margin-left:120px;
+    margin-top:160px;
+    margin-left:-495px;
 
 }
 
 #Home>section:first-child>div:first-child>h4{
+    position:absolute;
     color:black;
     font-size:25px;
     margin-left:120px;
-    margin-top:30px;
-    margin-right:240px;
+    margin-top:300px;
+    margin-right:840px;
 
 }
 
 #Home>section:first-child>div:first-child>h5{
+    position:absolute;
     color:black;
     font-size:25px;
     margin-left:120px;
-    margin-top:120px;
+    margin-top:550px;
 }
 
 #Home>section:nth-child(2)>img{
+     position:absolute;
      width: 400px;
      height: 400px;
      transform:rotate(10deg);
      margin-top:110px;
-     margin-right:130px;
+     margin-left:970px;
 }
 
 #Home>section:nth-child(3)>div:first-child{
@@ -55,7 +62,7 @@
      width: 60px;
      height: 60px;
      background: black;
-     margin-top:630px;
+     margin-top:600px;
      right:1330px;
 }
 #Home>section:nth-child(3)>div:first-child>img{
@@ -70,7 +77,7 @@
      width: 60px;
      height: 60px;
      background: black;
-     margin-top:630px;
+     margin-top:600px;
      right:1230px;
 }
 
@@ -86,7 +93,7 @@
      width: 60px;
      height: 60px;
      background: black;
-     margin-top:630px;
+     margin-top:600px;
      right:1130px;
 }
 
