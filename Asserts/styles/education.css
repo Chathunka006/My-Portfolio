@@ -1,18 +1,22 @@
 #education{
     width: 100vw;
     height: 1600px;
-    background: #120D06;
+    background: #59A6EE;
 }
 #education>section:first-child>h3{
-    color: #FD6B11;
+    color: black;
     position: absolute;
-    left: 40vw;
+    left: 41vw;
+    margin-top:55px;
+    font-size:20px;
+
 }
 #education>section:first-child>div>h1{
     color: white;
     font-size: 60px;
     position: absolute;
     left: 37vw;
+    margin-top:70px;
 }
 #education>section:nth-child(2)>div{
     width: 580px;
@@ -36,7 +40,7 @@
 }
 
 #education>section:nth-child(5)>h6{
-    color: #FD6B11;
+    color: black;
     position: absolute;
     font-size: 20px;
     left: 500px;
@@ -150,7 +154,7 @@
     border-radius: 100%;
     position: absolute;
     background-color: #120D06;
-    border: 4px solid #FD6B11;
+    border: 4px solid white;
     left: 610px;
     margin-top: 380px;
 }
@@ -160,7 +164,7 @@
     border-radius: 100%;
     position: absolute;
     background-color: #120D06;
-    border: 4px solid #FD6B11;
+    border: 4px solid white;
     left: 610px;
     margin-top: 780px;
 }
@@ -170,7 +174,7 @@
     border-radius: 100%;
     position: absolute;
     background-color: #120D06;
-    border: 4px solid #FD6B11;
+    border: 4px solid white;
     left: 610px;
     margin-top: 1180px;
 }
@@ -178,7 +182,7 @@
     width: 480px;
     height: 1px;
     position: absolute;
-    background-color: #FD6B11;
+    background-color: #59A6EE;
     margin-top: 460px;
     left: 950px;
 }
@@ -186,7 +190,7 @@
     width: 480px;
     height: 1px;
     position: absolute;
-    background-color: #FD6B11;
+    background-color: #59A6EE;
     margin-top: 860px;
     left: 950px;
 }
@@ -194,7 +198,7 @@
     width: 480px;
     height: 1px;
     position: absolute;
-    background-color: #FD6B11;
+    background-color: #59A6EE;
     margin-top: 1260px;
     left: 950px;
 }
