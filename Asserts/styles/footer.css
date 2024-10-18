@@ -45,7 +45,7 @@ footer>section:nth-child(2)>div{
     right: 0;
     margin: auto;
     margin-top: 15px;
-    border: 2px solid #FD6B11;
+    border: 2px solid #59A6EE;
 }
 footer>section:nth-child(2)>div:hover{
     box-shadow: 10px 5px 50px white;
@@ -80,7 +80,7 @@ footer>section:nth-child(3)>p{
 
 }
 footer>section:nth-child(3)>div{
-    color: #FD6B11;
+    color: #59A6EE;
     font-size: 30px;
     position: absolute;
     left: 400px;
@@ -110,7 +110,7 @@ footer>section:nth-child(4)>ul>li>a{
 }
 footer>section:nth-child(5)>h3:first-child>a{
     position: absolute;
-    color: #FD6B11;
+    color: #59A6EE;
     font-size: 25px;
     /*right: 200px;*/
     left: 655px;
@@ -199,7 +199,7 @@ footer>section:nth-child(6)>div:nth-child(3){
         right: 0;
         margin: auto;
         margin-top: 15px;
-        border: 2px solid #FD6B11;
+        border: 2px solid #59A6EE;
     }
     footer>section:nth-child(2)>div:hover{
         box-shadow: 10px 5px 50px white;
@@ -234,7 +234,7 @@ footer>section:nth-child(6)>div:nth-child(3){
 
     }
     footer>section:nth-child(3)>div{
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 30px;
         position: absolute;
         left: 250px;
@@ -264,7 +264,7 @@ footer>section:nth-child(6)>div:nth-child(3){
     }
     footer>section:nth-child(5)>h3:first-child>a{
         position: absolute;
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 25px;
         /*right: 200px;*/
         left: 435px;
