@@ -1,18 +1,20 @@
 #skill{
-    background: #120D06;
+    background: black;
     width: 100vw;
     height: 800px;
 }
 #skill>section:first-child>h3{
-    color: #FD6B11;
+    color: #59A6EE;
     position: absolute;
+    margin-top:55px;
     left: 40vw;
 }
 #skill>section:first-child>div>h1{
     color: white;
     font-size: 60px;
     position: absolute;
-    left: 30vw;
+    margin-top:70px;
+    left: 28vw;
 }
 #skill>section:nth-child(2){
     display: flex;
@@ -25,7 +27,7 @@
     background-color: white;
     margin-top: 200px;
     position: relative;
-    box-shadow: 0 0 30px #FD6B11;
+    box-shadow: 0 0 30px #59A6EE;
 }
 #skill>section:nth-child(2)>div>h4{
     font-size: 20px;
@@ -53,7 +55,7 @@
     background-color: white;
     margin-top: 190px;
     position: relative;
-    box-shadow: 0 0 30px #FD6B11;
+    box-shadow: 0 0 30px #59A6EE;
 }
 #skill>section:nth-child(3)>div>h4{
     font-size: 20px;
