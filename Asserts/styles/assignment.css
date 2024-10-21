@@ -9,8 +9,8 @@
 h3{
     color: black;
     position: absolute;
-    left: 41vw;
-    margin-top:55px;
+    left: 42vw;
+    margin-top:50px;
 
 }
 h1{
@@ -29,7 +29,7 @@ h1{
     background: #59A6EE;
     position: absolute;
     margin-top: 134px;
-    left: 300px;
+    left: 120px;
 }
 .cols{
     display: -webkit-box;
