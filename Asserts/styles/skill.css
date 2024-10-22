@@ -76,20 +76,22 @@
 /*media query for large laptop(1440px)*/
 @media all and (max-width: 1440px) {
     #skill{
-        background: #120D06;
+        background: black;
         width: 1440px;
         height: 910px;
     }
     #skill>section:first-child>h3{
-        color: #FD6B11;
+        color: #59A6EE;
         position: absolute;
         left: 40vw;
+        margin-top:70px;
     }
     #skill>section:first-child>div>h1{
         color: white;
         font-size: 60px;
         position: absolute;
         left: 25vw;
+        margin-top:90px;
     }
     #skill>section:nth-child(2){
         display: flex;
@@ -102,7 +104,7 @@
         background-color: white;
         margin-top: 280px;
         position: relative;
-        box-shadow: 0 0 30px #FD6B11;
+        box-shadow: 0 0 30px #59A6EE;
     }
     #skill>section:nth-child(2)>div>h4{
         font-size: 20px;
@@ -130,7 +132,7 @@
         background-color: white;
         margin-top: 230px;
         position: relative;
-        box-shadow: 0 0 30px #FD6B11;
+        box-shadow: 0 0 30px #59A6EE;
     }
     #skill>section:nth-child(3)>div>h4{
         font-size: 20px;
