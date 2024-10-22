@@ -328,15 +328,15 @@
         height: 1050px;
     }
     #contact>section:nth-child(1)>h3{
-        color: #FD6B11;
+        color: #59A6EE;
         position: absolute;
-        left: 40vw;
+        left: 49vw;
     }
     #contact>section:nth-child(1)>div>h1{
         color: white;
         font-size: 60px;
         position: absolute;
-        left: 36vw;
+        left: 43vw;
     }
     #contact>section:nth-child(2){
         position: absolute;
@@ -367,69 +367,78 @@
     #contact>section:nth-child(2)>div:nth-child(1)>h4{
         color: white;
         font-size: 30px;
-        margin-left: 25px;
+        margin-left: 35px;
     }
     #contact>section:nth-child(2)>div:nth-child(1)>p{
         color: white;
-        margin-left: 25px;
-        margin-top: -20px;
+        margin-left: 35px;
+        margin-top: 20px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
     }
     #contact>section:nth-child(2)>div:nth-child(2)>h6{
+        position:absolute;
         color: gray;
         font-size: 15px;
-        margin-left: 25px;
+        margin-left: 35px;
+        margin-top:50px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
     }
     #contact>section:nth-child(2)>div:nth-child(2)>h5{
+        position:absolute;
         color: white;
         font-size: 15px;
-        margin-left: 100px;
-        margin-top: -53px;
+        margin-left: 130px;
+        margin-top: 50px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
     }
     #contact>section:nth-child(2)>div:nth-child(3)>h6{
+        position:absolute;
         color: gray;
         font-size: 15px;
-        margin-left: 25px;
+        margin-left: 35px;
+        margin-top:100px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
     }
     #contact>section:nth-child(2)>div:nth-child(3)>h5{
+        position:absolute;
         color: white;
         font-size: 15px;
-        margin-left: 100px;
-        margin-top: -53px;
+        margin-left: 130px;
+        margin-top: 100px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
     }
     #contact>section:nth-child(2)>div:nth-child(4)>h6{
+        position:absolute;
         color: gray;
         font-size: 15px;
-        margin-left: 25px;
+        margin-left: 35px;
+        margin-top:150px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
         font-style: normal;
     }
     #contact>section:nth-child(2)>div:nth-child(4)>h5{
+        position:absolute;
         color: white;
         font-size: 15px;
-        margin-left: 100px;
-        margin-top: -53px;
+        margin-left: 130px;
+        margin-top: 150px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -437,8 +446,8 @@
     }
     #contact>section:nth-child(2)>div:nth-child(5)>h5{
         color: gray;
-        margin-left: 25px;
-        margin-top: 80px;
+        margin-left: 35px;
+        margin-top: 250px;
         font-family: "Hubballi", sans-serif;
         font-weight: 400;
         font-style: normal;
@@ -450,12 +459,12 @@
         background-color: black;
         margin-left: 30px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(6):hover{
         width: 65px;
         height: 65px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 30px;
         border-radius: 10px;
         border: 1px solid white;
@@ -474,12 +483,12 @@
         margin-left: 120px;
         margin-top: -60px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(7):hover{
         width: 65px;
         height: 65px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 120px;
         margin-top: -60px;
         border: 1px solid white;
@@ -498,7 +507,7 @@
         margin-left: 210px;
         margin-top: -60px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(8):hover{
         width: 65px;
@@ -615,7 +624,7 @@
         margin-left: 40px;
         background-color: black;
         box-shadow: inset 1px 2px 5px black;
-        color: #FD6B11;
+        color: #59A6EE;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -626,7 +635,7 @@
         height: 30px;
         border-radius: 8px;
         margin-left: 40px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         box-shadow:  4px 4px 50px grey;
         color: white;
     }
