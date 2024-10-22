@@ -28,15 +28,15 @@
                     width: 160px;
                     height: 40px;
                     background: white;
-                    bottom: 550px;
+                    top:150px;
                     left:170px;
         }
 
 #welcome>section>div:nth-child(2)>h3{
             width: 650px;
             height: 800px;
-            margin-left: -610px;
-            top:-50px;
+            margin-left: -630px;
+            top:-48px;
             position: absolute;
             font-size: 30px;
             color:#59A6EE;
@@ -67,7 +67,7 @@
         }
 
 /*media query for large laptop(1440px)*/
-
+@media all and (max-width: 1440px) {
 #welcome{
     display: flex;
     background-color: white;
@@ -97,7 +97,7 @@
                     width: 140px;
                     height: 40px;
                     background: white;
-                    bottom: 700px;
+                    bottom: 500px;
                     left:170px;
         }
 
@@ -134,3 +134,4 @@
 
 
         }
+}
