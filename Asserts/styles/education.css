@@ -208,18 +208,18 @@
     #education{
         width: 1440px;
         height: 1600px;
-        background: #120D06;
+        background: #59A6EE;
     }
     #education>section:first-child>h3{
-        color: #FD6B11;
+        color: black;
         position: absolute;
-        left: 40vw;
+        left: 44vw;
     }
     #education>section:first-child>div>h1{
         color: white;
         font-size: 60px;
         position: absolute;
-        left: 37vw;
+        left: 40vw;
     }
     #education>section:nth-child(2)>div{
         width: 580px;
@@ -231,19 +231,19 @@
     }
     #education>section:nth-child(2)>div:nth-child(1){
         margin-top: 330px;
-        left: 700px;
+        left: 900px;
     }
     #education>section:nth-child(2)>div:nth-child(2){
         margin-top: 730px;
-        left: 700px;
+        left: 900px;
     }
     #education>section:nth-child(2)>div:nth-child(3){
         margin-top:1130px;
-        left: 700px;
+        left: 900px;
     }
 
     #education>section:nth-child(5)>h6{
-        color: #FD6B11;
+        color: black;
         position: absolute;
         font-size: 20px;
         left: 250px;
@@ -357,7 +357,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 410px;
         margin-top: 380px;
     }
@@ -367,7 +367,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 410px;
         margin-top: 780px;
     }
@@ -377,7 +377,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 410px;
         margin-top: 1180px;
     }
@@ -385,7 +385,7 @@
         width: 480px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color:  #59A6EE;
         margin-top: 460px;
         left: 750px;
     }
@@ -393,7 +393,7 @@
         width: 480px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color:  #59A6EE;
         margin-top: 860px;
         left: 750px;
     }
@@ -401,7 +401,7 @@
         width: 480px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color:  #59A6EE;
         margin-top: 1260px;
         left: 750px;
     }

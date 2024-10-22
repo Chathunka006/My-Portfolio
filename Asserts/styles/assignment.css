@@ -214,7 +214,7 @@ h1{
 /*media query for large laptop(1440px)*/
 @media all and (max-width: 1440px) {
     #assignment {
-        background: #120D06;
+        background: #59A6EE;
         width: 1440px;  /* Set the width to 1440px */
         height: 910px;  /* Set the height to 910px */
         margin: 0 auto; /* Center the assignment section on the page */
@@ -222,23 +222,23 @@ h1{
     }
 
     h3 {
-        color: #FD6B11;
+        color: black;
         position: absolute;
-        left: 40vw;  /* Adjust positioning based on 1440px width */
+        left: 44vw;  /* Adjust positioning based on 1440px width */
     }
 
     h1 {
         color: white;
         font-size: 60px;
         position: absolute;
-        left: 37vw;  /* Adjust positioning based on 1440px width */
+        left: 39vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
         width: 90%;
         margin: 0 auto;
         max-width: 1440px;  /* Set max-width to 1440px */
-        background: #120D06;
+        background: #59A6EE;
         position: absolute;
         margin-top: 134px;
         left: 50%;
@@ -366,7 +366,7 @@ h1{
     .btn {
         width: 120px;
         height: 40px;
-        background: #FD6B11;
+        background: #59A6EE;
         border-radius: 10px;
         margin-bottom: 20px;
     }
