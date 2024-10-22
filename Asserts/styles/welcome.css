@@ -65,3 +65,72 @@
 
 
         }
+
+/*media query for large laptop(1440px)*/
+
+#welcome{
+    display: flex;
+    background-color: white;
+    width: 1440px;
+    height: 910px;
+    margin-top: 60px;
+}
+
+#welcome>section>div:nth-child(1){
+            position: absolute;
+            width: 1250px;
+            height: 860px;
+            background: #59A6EE;
+            margin-left:100px;
+        }
+
+#welcome>section>div:nth-child(1)>img{
+            width: 625px;
+            height: 860px;
+            margin-left: 625px;
+            position: absolute;
+
+        }
+
+#welcome>section>div:nth-child(2){
+                    position: absolute;
+                    width: 140px;
+                    height: 40px;
+                    background: white;
+                    bottom: 550px;
+                    left:170px;
+        }
+
+#welcome>section>div:nth-child(2)>h3{
+            width: 650px;
+            height: 800px;
+            margin-left: -567px;
+            top:-45px;
+            position: absolute;
+            font-size: 28px;
+            color:#59A6EE;
+
+        }
+
+#welcome>section>div:nth-child(1)>h2{
+            width: 650px;
+            height: 800px;
+            left: 60px;
+            top:180px;
+            position: absolute;
+            font-size: 45px;
+            color:white;
+
+        }
+
+#welcome>section>div:nth-child(1)>h1{
+            width: 550px;
+            height: 800px;
+            left: 60px;
+            top:360px;
+            position: absolute;
+            font-size: 90px;
+            color:white;
+
+
+        }

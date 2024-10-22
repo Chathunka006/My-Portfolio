@@ -27,7 +27,6 @@
     font-size:80px;
     margin-top:160px;
     margin-left:-515px;
-
 }
 
 #Home>section:first-child>div:first-child>h4{
@@ -103,3 +102,71 @@
     height: 50px;
 
 }
+
+/*media query for large laptop(1440px)*/
+#Home{
+    display: flex;
+    background-color: white;
+    width: 1440px;
+    height: 910px;
+}
+
+#Home>section:first-child>div:first-child>h1{
+    position:absolute;
+    color:black;
+    font-size:70px;
+    margin-left:-420px;
+    margin-top:80px;
+}
+
+#Home>section:first-child>div:first-child>h3{
+    position:absolute;
+    color:#59A6EE;
+    font-size:80px;
+    margin-top:160px;
+    margin-left:-465px;
+}
+
+#Home>section:nth-child(3)>div:nth-child(3){
+     position: absolute;
+     width: 60px;
+     height: 60px;
+     background: black;
+     margin-top:630px;
+     right:1060px;
+}
+
+#Home>section:nth-child(3)>div:nth-child(2){
+     position: absolute;
+     width: 60px;
+     height: 60px;
+     background: black;
+     margin-top:630px;
+     right:1160px;
+}
+#Home>section:nth-child(3)>div:first-child{
+     position: absolute;
+     width: 60px;
+     height: 60px;
+     background: black;
+     margin-top:630px;
+     margin-right:-70px;
+}
+
+#Home>section:first-child>div:first-child>h5{
+    position:absolute;
+    color:black;
+    font-size:25px;
+    margin-left:120px;
+    margin-top:570px;
+}
+
+#Home>section:nth-child(2)>img{
+     position:absolute;
+     width: 400px;
+     height: 400px;
+     transform:rotate(10deg);
+     margin-top:80px;
+     margin-left:940px;
+}
+

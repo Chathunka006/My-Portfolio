@@ -50,3 +50,28 @@ header>section>h1:hover{
     color: blue;
 
 }
+
+/*media query for large laptop(1440px)*/
+@media all and (max-width: 1440px) {
+    header{
+        position: fixed;
+        display: inline-block;
+        width: 1440px;
+        background-color: lightblue;
+        height: 80px;
+        top: 0;
+        z-index: 9999;
+    }
+    header>nav{
+        position: absolute;
+        height: fit-content;
+        right: 100px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+
+
+
+
+}
