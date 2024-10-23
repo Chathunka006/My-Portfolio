@@ -81,7 +81,7 @@
             width: 1250px;
             height: 860px;
             background: #59A6EE;
-            margin-left:115px;
+            margin-left:100px;
         }
 
 #welcome>section>div:nth-child(1)>img{
@@ -98,7 +98,7 @@
                     height: 40px;
                     background: white;
                     bottom: 500px;
-                    left:170px;
+                    left:160px;
         }
 
 #welcome>section>div:nth-child(2)>h3{

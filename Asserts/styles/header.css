@@ -65,13 +65,17 @@ header>section>h1:hover{
     header>nav{
         position: absolute;
         height: fit-content;
-        right: 100px;
+        right: 80px;
         top: 0;
         bottom: 0;
         margin: auto;
     }
 
-
-
+    header>section>h1{
+        font-size:30px;
+        color: white;
+        margin-left: -450px;
+        margin-top:20px;
+    }
 
 }
