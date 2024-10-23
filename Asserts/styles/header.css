@@ -79,3 +79,26 @@ header>section>h1:hover{
     }
 
 }
+
+/*media query for Small laptop(1024px)*/
+@media all and (max-width: 1024px) {
+        header{
+            position: fixed;
+            display: inline-block;
+            width: 1440px;
+            background-color: lightblue;
+            height: 80px;
+            top: 0;
+            z-index: 9999;
+        }
+
+        header>section>h1{
+                font-size:30px;
+                color: white;
+                margin-left: -197px;
+                margin-top:20px;
+            }
+
+
+
+}
