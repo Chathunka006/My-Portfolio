@@ -617,10 +617,10 @@
     #education{
         width: 768px;
         height: 1150px;
-        background: #120D06;
+        background: #59A6EE;
     }
     #education>section:first-child>h3{
-        color: #FD6B11;
+        color: black;
         position: absolute;
         left: 40vw;
         font-size: 13px;
@@ -641,19 +641,19 @@
     }
     #education>section:nth-child(2)>div:nth-child(1){
         margin-top: 330px;
-        left: 370px;
+        left: 570px;
     }
     #education>section:nth-child(2)>div:nth-child(2){
         margin-top: 600px;
-        left: 370px;
+        left: 570px;
     }
     #education>section:nth-child(2)>div:nth-child(3){
         margin-top:900px;
-        left: 370px;
+        left: 570px;
     }
 
     #education>section:nth-child(5)>h6{
-        color: #FD6B11;
+        color: black;
         position: absolute;
         font-size: 14px;
         left: 80px;
@@ -767,7 +767,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 190px;
         margin-top: 380px;
     }
@@ -777,7 +777,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 190px;
         margin-top: 650px;
     }
@@ -787,7 +787,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 190px;
         margin-top: 950px;
     }
@@ -795,7 +795,7 @@
         width: 300px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-top: 420px;
         left: 390px;
     }
@@ -803,7 +803,7 @@
         width: 300px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-top: 710px;
         left: 390px;
     }
@@ -811,7 +811,7 @@
         width: 300px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-top: 980px;
         left: 390px;
     }

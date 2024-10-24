@@ -497,7 +497,7 @@ footer>section:nth-child(6)>div:nth-child(3){
         right: 0;
         margin: auto;
         margin-top: 0px;
-        border: 2px solid #FD6B11;
+        border: 2px solid #59A6EE;
     }
     footer>section:nth-child(2)>div:hover{
         box-shadow: 2px 3px 30px white;
@@ -533,7 +533,7 @@ footer>section:nth-child(6)>div:nth-child(3){
 
     }
     footer>section:nth-child(3)>div{
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 18px;
         position: absolute;
         left: 180px;
@@ -563,7 +563,7 @@ footer>section:nth-child(6)>div:nth-child(3){
     }
     footer>section:nth-child(5)>h3:first-child>a{
         position: absolute;
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 16px;
         /*right: 200px;*/
         left: 225px;

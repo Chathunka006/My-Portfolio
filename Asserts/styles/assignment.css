@@ -538,7 +538,7 @@ h1{
 /*media query for Tablet size(768px)*/
 @media all and (max-width: 768px) {
     #assignment {
-        background: #120D06;
+        background: #59A6EE;
         width: 768px;  /* Set the width to 1440px */
         height: 800px;  /* Set the height to 910px */
         margin: 0 auto; /* Center the assignment section on the page */
@@ -546,7 +546,7 @@ h1{
     }
 
     h3 {
-        color: #FD6B11;
+        color: black;
         position: absolute;
         left: 35vw;  /* Adjust positioning based on 1440px width */
         font-size: 13px;
@@ -563,7 +563,7 @@ h1{
         width: 90%;
         margin: 0 auto;
         max-width: 1440px;  /* Set max-width to 1440px */
-        background: #120D06;
+        background: #59A6EE;
         position: absolute;
         margin-top: 134px;
         left: 50%;
@@ -693,7 +693,7 @@ h1{
     .btn {
         width: 100px;
         height: 30px;
-        background: #FD6B11;
+        background: #59A6EE;
         border-radius: 10px;
         margin-bottom: 20px;
     }
