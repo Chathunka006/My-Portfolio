@@ -393,7 +393,7 @@ h1{
         color: white;
         font-size: 50px;
         position: absolute;
-        left: 30vw;  /* Adjust positioning based on 1440px width */
+        left: 32vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
