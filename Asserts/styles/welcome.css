@@ -178,7 +178,7 @@
                     position: absolute;
                     width: 150px;
                     height: 80px;
-                    margin-left: -407px;
+                    margin-left: -377px;
                     top:-57px;
                     font-size: 20px;
                     color:#59A6EE;
@@ -196,8 +196,8 @@
                 }
 
         #welcome>section>div:nth-child(1)>h2{
-                    width: 650px;
-                    height: 800px;
+                    width: 450px;
+                    height: 400px;
                     left: 60px;
                     top:200px;
                     position: absolute;

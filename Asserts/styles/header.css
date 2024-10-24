@@ -96,14 +96,14 @@ header>section>h1:hover{
                 position:absolute;
                 font-size:25px;
                 color: white;
-                margin-left: -275px;
+                margin-left: -235px;
                 margin-top:24px;
             }
 
         header>nav{
                 position: absolute;
                 height: fit-content;
-                right: 57px;
+                right: 55px;
                 top: 0;
                 bottom: 0;
                 margin: auto;
