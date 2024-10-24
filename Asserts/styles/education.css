@@ -411,10 +411,10 @@
     #education{
         width: 1024px;
         height: 1350px;
-        background: #120D06;
+        background: #59A6EE;
     }
     #education>section:first-child>h3{
-        color: #FD6B11;
+        color: black;
         position: absolute;
         left: 40vw;
         font-size: 15px;
@@ -435,19 +435,19 @@
     }
     #education>section:nth-child(2)>div:nth-child(1){
         margin-top: 330px;
-        left: 520px;
+        left: 720px;
     }
     #education>section:nth-child(2)>div:nth-child(2){
         margin-top: 680px;
-        left: 520px;
+        left: 720px;
     }
     #education>section:nth-child(2)>div:nth-child(3){
         margin-top:1030px;
-        left: 520px;
+        left: 720px;
     }
 
     #education>section:nth-child(5)>h6{
-        color: #FD6B11;
+        color: black;
         position: absolute;
         font-size: 17px;
         left: 120px;
@@ -561,7 +561,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 280px;
         margin-top: 380px;
     }
@@ -571,7 +571,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 280px;
         margin-top: 730px;
     }
@@ -581,7 +581,7 @@
         border-radius: 100%;
         position: absolute;
         background-color: #120D06;
-        border: 4px solid #FD6B11;
+        border: 4px solid white;
         left: 280px;
         margin-top: 1080px;
     }
@@ -589,7 +589,7 @@
         width: 380px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-top: 460px;
         left: 540px;
     }
@@ -597,7 +597,7 @@
         width: 380px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-top: 810px;
         left: 540px;
     }
@@ -605,7 +605,7 @@
         width: 380px;
         height: 1px;
         position: absolute;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-top: 1160px;
         left: 540px;
     }

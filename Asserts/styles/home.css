@@ -171,3 +171,99 @@
      margin-left:940px;
 }
 }
+
+/*media query for Small laptop(1024px)*/
+@media all and (max-width: 1024px) {
+    #Home{
+        display: flex;
+        background-color: white;
+        width: 1024px;
+        height: 750px;
+    }
+
+    #Home>section:nth-child(2)>img{
+         position:absolute;
+         width: 300px;
+         height: 300px;
+         transform:rotate(10deg);
+         margin-top:110px;
+         margin-left:670px;
+    }
+
+    #Home>section:first-child>div:first-child>h1{
+        position:absolute;
+        color:black;
+        font-size:60px;
+        margin-left:-270px;
+        margin-top:100px;
+    }
+
+    #Home>section:first-child>div:first-child>h2{
+        position:absolute;
+        color:#59A6EE;
+        font-size:70px;
+        margin-left:300px;
+        margin-top:92px;
+    }
+
+    #Home>section:first-child>div:first-child>h3{
+        position:absolute;
+        color:#59A6EE;
+        font-size:70px;
+        margin-top:170px;
+        margin-left:-332px;
+    }
+
+    #Home>section:first-child>div:first-child>h4{
+        position:absolute;
+        color:black;
+        font-size:22px;
+        margin-left:73px;
+        margin-top:280px;
+        margin-right:500px;
+
+    }
+
+    #Home>section:first-child>div:first-child>h5{
+        position:absolute;
+        color:black;
+        font-size:25px;
+        margin-left:73px;
+        margin-top:520px;
+    }
+
+    #Home>section:nth-child(3)>div:first-child{
+         position: absolute;
+         width: 60px;
+         height: 60px;
+         background: black;
+         margin-top:580px;
+         right:970px;
+    }
+
+    #Home>section:nth-child(3)>div:nth-child(2){
+         position: absolute;
+         width: 60px;
+         height: 60px;
+         background: black;
+         margin-top:580px;
+         right:790px;
+    }
+
+    #Home>section:nth-child(3)>div:nth-child(3){
+             position: absolute;
+             width: 60px;
+             height: 60px;
+             background: black;
+             margin-top:580px;
+             right:680px;
+        }
+
+
+
+
+
+
+
+
+}

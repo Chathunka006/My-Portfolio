@@ -153,12 +153,12 @@
 /*media query for Small laptop(1024px)*/
 @media all and (max-width: 1024px) {
     #skill{
-        background: #120D06;
+        background: black;
         width: 1024px;
         height: 750px;
     }
     #skill>section:first-child>h3{
-        color: #FD6B11;
+        color: #59A6EE;
         position: absolute;
         left: 35vw;
         font-size: 15px;
@@ -180,7 +180,7 @@
         background-color: white;
         margin-top: 250px;
         position: relative;
-        box-shadow: 0 0 30px #FD6B11;
+        box-shadow: 0 0 30px #59A6EE;
     }
     #skill>section:nth-child(2)>div>h4{
         font-size: 15px;
@@ -208,7 +208,7 @@
         background-color: white;
         margin-top: 150px;
         position: relative;
-        box-shadow: 0 0 30px #FD6B11;
+        box-shadow: 0 0 30px #59A6EE;
     }
     #skill>section:nth-child(3)>div>h4{
         font-size: 15px;

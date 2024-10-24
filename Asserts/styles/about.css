@@ -148,10 +148,93 @@
      margin-top:645px;
 }
 
+}
 
+/*media query for Small laptop(1024px)*/
+@media all and (max-width: 1024px) {
+    #About{
+        display: flex;
+        background-color: white;
+        width: 1024px;
+        height: 750px;
+    }
+
+    #About>section:nth-child(2)>div:first-child{
+        position: absolute;
+        width: 450px;
+        height: 520px;
+        background: #59A6EE;
+        margin-top:170px;
+        margin-left:520px;
+
+    }
+
+    #About>section:nth-child(3)>img{
+         position:absolute;
+         width: 490px;
+         height: 580px;
+         margin-top:140px;
+         margin-left:30px;
+
+    }
+
+    #About>section:nth-child(4)>section>button{
+         position:absolute;
+         color:white;
+         border-radius:20px;
+         background:black;
+         width:240px;
+         height:40px;
+         margin-left:630px;
+         margin-top:620px;
+    }
+
+    #About>section:nth-child(4)>div:first-child{
+
+         width:350px;
+         height:350px;
+         position:absolute;
+         margin-top:170px;
+         z-index:9999;
+         margin-left:610px;
+
+    }
+
+    #About>section:first-child>h1{
+        position:absolute;
+        font-size:70px;
+        margin-top:60px;
+        color:  #59A6EE;
+
+    }
+
+    #About>section:first-child>h3{
+        position:absolute;
+        font-size:21px;
+        margin-top:50px;
+        color:  black;
+        margin-left:-40px;
+
+    }
+
+    #About>section:nth-child(2)>div:first-child>h4{
+
+         font-size:15px;
+         color: white;
+         margin-left:43px;
+         margin-top:40px
+
+    }
+
+    #About>section:nth-child(4)>div:first-child>h4{
+         font-size:15px;
+         color:white;
+         margin-top:40px;
+         margin-left:112px;
+
+    }
 
 
 }
-
 
 

@@ -648,7 +648,7 @@
         height: 850px;
     }
     #contact>section:nth-child(1)>h3{
-        color: #FD6B11;
+        color: #59A6EE;
         position: absolute;
         left: 42vw;
         font-size: 15px;
@@ -693,7 +693,7 @@
     #contact>section:nth-child(2)>div:nth-child(1)>p{
         color: white;
         margin-left: 25px;
-        margin-top: -20px;
+        margin-top:20px;
         font-size: 15px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
@@ -704,6 +704,7 @@
         color: gray;
         font-size: 12px;
         margin-left: 25px;
+        margin-top:20px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -713,7 +714,7 @@
         color: white;
         font-size: 12px;
         margin-left: 90px;
-        margin-top: -41px;
+        margin-top: 20px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -723,6 +724,7 @@
         color: gray;
         font-size: 12px;
         margin-left: 25px;
+        margin-top:60px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -732,7 +734,7 @@
         color: white;
         font-size: 12px;
         margin-left: 90px;
-        margin-top: -42px;
+        margin-top: 60px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -742,6 +744,7 @@
         color: gray;
         font-size: 12px;
         margin-left: 25px;
+        margin-top:100px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -751,7 +754,7 @@
         color: white;
         font-size: 12px;
         margin-left: 90px;
-        margin-top: -42px;
+        margin-top: 100px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -760,7 +763,7 @@
     #contact>section:nth-child(2)>div:nth-child(5)>h5{
         color: gray;
         margin-left: 25px;
-        margin-top: 50px;
+        margin-top: 170px;
         font-family: "Hubballi", sans-serif;
         font-weight: 400;
         font-style: normal;
@@ -770,9 +773,9 @@
         width: 50px;
         height: 50px;
         background-color: black;
-        margin-left: 30px;
+        margin-left: 25px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(6):hover{
         width: 55px;
@@ -793,15 +796,15 @@
         width: 50px;
         height: 50px;
         background-color: black;
-        margin-left: 120px;
-        margin-top: -53px;
+        margin-left: 115px;
+        margin-top: -50px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(7):hover{
         width: 55px;
         height: 55px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 120px;
         margin-top: -60px;
         border: 1px solid white;
@@ -817,15 +820,15 @@
         width: 50px;
         height: 50px;
         background-color: black;
-        margin-left: 210px;
-        margin-top: -53px;
+        margin-left: 205px;
+        margin-top: -51px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(8):hover{
         width: 55px;
         height: 55px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 210px;
         margin-top: -60px;
         border: 1px solid white;
@@ -937,7 +940,7 @@
         margin-left: 40px;
         background-color: black;
         box-shadow: inset 1px 2px 5px black;
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 15px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
@@ -949,7 +952,7 @@
         height: 30px;
         border-radius: 8px;
         margin-left: 40px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         box-shadow:  4px 4px 50px grey;
         color: white;
     }
