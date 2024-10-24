@@ -237,4 +237,84 @@
 
 }
 
+/*media query for Tablet size(768px)*/
+@media all and (max-width: 768px) {
+
+    #About{
+        display: flex;
+        background-color: white;
+        width: 768px;
+        height: 642px;
+    }
+
+    #About>section:nth-child(2)>div:first-child{
+        position: absolute;
+        width: 340px;
+        height: 410px;
+        background: #59A6EE;
+        margin-top:170px;
+        margin-left:395px;
+
+    }
+
+    #About>section:nth-child(3)>img{
+         position:absolute;
+         width: 380px;
+         height: 470px;
+         margin-top:140px;
+         margin-left:20px;
+
+    }
+
+    #About>section:nth-child(2)>div:first-child>h4{
+
+         font-size:10px;
+         color: white;
+         margin-left:43px;
+         margin-top:35px
+
+    }
+
+    #About>section:nth-child(4)>div:first-child>h4{
+         font-size:11px;
+         color:white;
+         margin-top:34px;
+         margin-left:-50px;
+
+    }
+
+    #About>section:nth-child(4)>section>button{
+         position:absolute;
+         color:white;
+         border-radius:20px;
+         background:black;
+         width:170px;
+         height:35px;
+         margin-left:486px;
+         margin-top:527px;
+    }
+
+
+    #About>section:first-child>h1{
+        position:absolute;
+        font-size:50px;
+        margin-top:70px;
+        margin-left:20px;
+        color:  #59A6EE;
+
+    }
+
+    #About>section:first-child>h3{
+        position:absolute;
+        font-size:15px;
+        margin-top:60px;
+        color:  black;
+        margin-left:-13px;
+
+    }
+
+
+
+}
+
 

@@ -206,5 +206,76 @@
 
                 }
 
+}
+
+/*media query for Tablet size(768px)*/
+@media all and (max-width: 768px) {
+
+                #welcome{
+                    display: flex;
+                    background-color: white;
+                    width: 768px;
+                    height: 642px;
+                    margin-top: 60px;
+
+                }
+                #welcome>section>div:nth-child(1){
+                    position: absolute;
+                    width: 700px;
+                    height: 642px;
+                    background: #59A6EE;
+                    margin-left:35px;
+                }
+                #welcome>section>div:nth-child(1)>img{
+                     width: 350px;
+                     height: 642px;
+                     margin-left: 350px;
+                     position: absolute;
+
+                 }
+
+        #welcome>section>div:nth-child(2)>h3{
+                    position: absolute;
+                    width: 150px;
+                    height: 80px;
+                    margin-left: -257px;
+                    top:-57px;
+                    font-size: 20px;
+                    color:#59A6EE;
+
+                }
+
+        #welcome>section>div:nth-child(2){
+                     position: absolute;
+                     width: 110px;
+                     height: 30px;
+                     background: white;
+                     bottom: 500px;
+                     left:70px;
+                     margin-top:-10px;
+                }
+
+        #welcome>section>div:nth-child(1)>h1{
+                    width: 300px;
+                    height: 200px;
+                    left: 35px;
+                    top:250px;
+                    position: absolute;
+                    font-size: 54px;
+                    color:white;
+
+
+                }
+
+                #welcome>section>div:nth-child(1)>h2{
+                            width: 350px;
+                            height: 100px;
+                            left: 35px;
+                            top:150px;
+                            position: absolute;
+                            font-size: 27px;
+                            color:white;
+
+                }
 
 }
