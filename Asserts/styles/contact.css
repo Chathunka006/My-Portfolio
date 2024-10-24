@@ -650,14 +650,14 @@
     #contact>section:nth-child(1)>h3{
         color: #59A6EE;
         position: absolute;
-        left: 42vw;
+        left: 46vw;
         font-size: 15px;
     }
     #contact>section:nth-child(1)>div>h1{
         color: white;
         font-size: 50px;
         position: absolute;
-        left: 36vw;
+        left: 40vw;
     }
     #contact>section:nth-child(2){
         position: absolute;

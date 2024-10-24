@@ -384,7 +384,7 @@ h1{
     h3 {
         color: black;
         position: absolute;
-        left: 39vw;  /* Adjust positioning based on 1440px width */
+        left: 41vw;  /* Adjust positioning based on 1440px width */
         font-size: 15px;
         margin-top:60px;
     }
@@ -393,7 +393,7 @@ h1{
         color: white;
         font-size: 50px;
         position: absolute;
-        left: 33vw;  /* Adjust positioning based on 1440px width */
+        left: 34vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
