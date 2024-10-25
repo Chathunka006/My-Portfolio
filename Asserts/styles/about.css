@@ -317,4 +317,87 @@
 
 }
 
+/*media query for Mobile size(425px)*/
+@media all and (max-width: 425px) {
+
+        #About{
+            display: flex;
+            background-color: white;
+            width: 425px;
+            height: 800px;
+        }
+
+        #About>section:nth-child(2)>div:first-child{
+            position: absolute;
+            width: 310px;
+            height: 330px;
+            background: #59A6EE;
+            margin-top:430px;
+            margin-left:60px;
+
+        }
+
+        #About>section:nth-child(3)>img{
+             position:absolute;
+             width: 350px;
+             height: 370px;
+             margin-top:60px;
+             margin-left:45px;
+
+        }
+
+        #About>section:nth-child(2)>div:first-child>h4{
+
+             font-size:9px;
+             color: white;
+             margin-left:43px;
+             margin-top:25px
+
+        }
+
+        #About>section:nth-child(4)>div:first-child>h4{
+             font-size:9px;
+             color:white;
+             margin-top:25px;
+             margin-left:-400px;
+
+        }
+
+        #About>section:nth-child(4)>section>button{
+             position:absolute;
+             color:white;
+             border-radius:20px;
+             background:black;
+             width:140px;
+             height:32px;
+             margin-left:146px;
+             margin-top:707px;
+        }
+
+
+        #About>section:first-child>h1{
+            position:absolute;
+            font-size:40px;
+            margin-top:10px;
+            margin-left:-30px;
+            color:  #59A6EE;
+
+        }
+
+        #About>section:first-child>h3{
+            position:absolute;
+            font-size:15px;
+            margin-top:0px;
+            color:  black;
+            margin-left:-85px;
+
+        }
+
+        #About>section:nth-child(4)>div:first-child{
+            margin-top:429px;
+
+        }
+
+
+}
 
