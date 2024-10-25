@@ -702,7 +702,7 @@ h1{
 /*media query for Mobile size(425px)*/
 @media all and (max-width: 425px) {
     #assignment {
-        background: #120D06;
+        background: #59A6EE;
         width: 425px;
         height: 2600px;
         margin: 0 auto;
@@ -710,9 +710,9 @@ h1{
     }
 
     h3 {
-        color: #FD6B11;
+        color: black;
         position: absolute;
-        left: 28vw;  /* Adjust positioning based on 1440px width */
+        left: 34vw;  /* Adjust positioning based on 1440px width */
         font-size: 10px;
     }
 
@@ -720,17 +720,17 @@ h1{
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 20vw;  /* Adjust positioning based on 1440px width */
+        left: 24vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
         width: 90%;
         margin: 0 auto;
         max-width: 1440px;  /* Set max-width to 1440px */
-        background: #120D06;
+        background: #59A6EE;
         position: absolute;
         margin-top: 134px;
-        left: 50%;
+        left: 52%;
         transform: translateX(-50%);  /* Center the wrapper */
 
     }
@@ -859,7 +859,7 @@ h1{
     .btn {
         width: 100px;
         height: 30px;
-        background: #FD6B11;
+        background: #59A6EE;
         border-radius: 10px;
         margin-bottom: 20px;
     }

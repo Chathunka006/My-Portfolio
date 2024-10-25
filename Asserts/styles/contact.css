@@ -1281,7 +1281,7 @@
         height: 1350px;
     }
     #contact>section:nth-child(1)>h3{
-        color: #FD6B11;
+        color: #59A6EE;
         position: absolute;
         left: 40vw;
         font-size: 10px;
@@ -1326,7 +1326,7 @@
     #contact>section:nth-child(2)>div:nth-child(1)>p{
         color: white;
         margin-left: 25px;
-        margin-top: -20px;
+        margin-top: 20px;
         font-size: 13px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
@@ -1337,6 +1337,7 @@
         color: gray;
         font-size: 10px;
         margin-left: 25px;
+        margin-top:30px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1344,9 +1345,9 @@
     }
     #contact>section:nth-child(2)>div:nth-child(2)>h5{
         color: white;
-        font-size: 10px;
-        margin-left: 75px;
-        margin-top: -34px;
+        font-size: 9px;
+        margin-left: 90px;
+        margin-top: 30px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1356,6 +1357,7 @@
         color: gray;
         font-size: 10px;
         margin-left: 25px;
+        margin-top:70px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1363,9 +1365,9 @@
     }
     #contact>section:nth-child(2)>div:nth-child(3)>h5{
         color: white;
-        font-size: 10px;
-        margin-left: 75px;
-        margin-top: -34px;
+        font-size: 9px;
+        margin-left: 90px;
+        margin-top: 70px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1375,6 +1377,7 @@
         color: gray;
         font-size: 10px;
         margin-left: 25px;
+        margin-top:110px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1382,9 +1385,9 @@
     }
     #contact>section:nth-child(2)>div:nth-child(4)>h5{
         color: white;
-        font-size: 10px;
-        margin-left: 75px;
-        margin-top: -34px;
+        font-size: 9px;
+        margin-left: 90px;
+        margin-top: 110px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight:  <weight>;
@@ -1392,8 +1395,8 @@
     }
     #contact>section:nth-child(2)>div:nth-child(5)>h5{
         color: gray;
-        margin-left: 23px;
-        margin-top: 50px;
+        margin-left: 25px;
+        margin-top: 160px;
         font-family: "Hubballi", sans-serif;
         font-weight: 400;
         font-style: normal;
@@ -1403,14 +1406,14 @@
         width: 45px;
         height: 45px;
         background-color: black;
-        margin-left: 30px;
+        margin-left: 25px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(6):hover{
         width: 50px;
         height: 50px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 30px;
         border-radius: 10px;
         border: 1px solid white;
@@ -1426,15 +1429,15 @@
         width: 45px;
         height: 45px;
         background-color: black;
-        margin-left: 100px;
+        margin-left: 95px;
         margin-top: -47px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(7):hover{
         width: 50px;
         height: 50px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 100px;
         margin-top: -55px;
         border: 1px solid white;
@@ -1450,15 +1453,15 @@
         width: 45px;
         height: 45px;
         background-color: black;
-        margin-left: 170px;
+        margin-left: 164px;
         margin-top: -47px;
         border-radius: 10px;
-        border: 1px solid #FD6B11;
+        border: 1px solid #59A6EE;
     }
     #contact>section:nth-child(2)>div:nth-child(8):hover{
         width: 50px;
         height: 50px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         margin-left: 170px;
         margin-top: -55px;
         border: 1px solid white;
@@ -1570,7 +1573,7 @@
         margin-left: 10px;
         background-color: black;
         box-shadow: inset 1px 2px 5px black;
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 12px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
@@ -1582,7 +1585,7 @@
         height: 30px;
         border-radius: 8px;
         margin-left: 10px;
-        background-color: #FD6B11;
+        background-color: #59A6EE;
         box-shadow:  4px 4px 50px grey;
         color: white;
     }
