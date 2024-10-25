@@ -237,14 +237,14 @@
     #skill>section:first-child>h3{
         color: #59A6EE;
         position: absolute;
-        left: 35vw;
+        left: 36vw;
         font-size: 13px;
     }
     #skill>section:first-child>div>h1{
         color: white;
         font-size: 45px;
         position: absolute;
-        left: 12vw;
+        left: 16vw;
     }
     #skill>section:nth-child(2){
         display: flex;

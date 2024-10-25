@@ -968,14 +968,14 @@
     #contact>section:nth-child(1)>h3{
         color: #59A6EE;
         position: absolute;
-        left: 42vw;
+        left: 46vw;
         font-size: 13px;
     }
     #contact>section:nth-child(1)>div>h1{
         color: white;
         font-size: 45px;
         position: absolute;
-        left: 36vw;
+        left: 38vw;
     }
     #contact>section:nth-child(2){
         position: absolute;
@@ -1011,7 +1011,7 @@
     #contact>section:nth-child(2)>div:nth-child(1)>p{
         color: white;
         margin-left: 25px;
-        margin-top: -20px;
+        margin-top: 30px;
         font-size: 13px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
@@ -1029,9 +1029,9 @@
     }
     #contact>section:nth-child(2)>div:nth-child(2)>h5{
         color: white;
-        font-size: 10px;
-        margin-left: 75px;
-        margin-top: -34px;
+        font-size: 9px;
+        margin-left: 85px;
+        margin-top: 21px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1048,9 +1048,9 @@
     }
     #contact>section:nth-child(2)>div:nth-child(3)>h5{
         color: white;
-        font-size: 10px;
-        margin-left: 75px;
-        margin-top: -34px;
+        font-size: 9px;
+        margin-left: 85px;
+        margin-top: 61px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight: <weight>;
@@ -1067,9 +1067,9 @@
     }
     #contact>section:nth-child(2)>div:nth-child(4)>h5{
         color: white;
-        font-size: 10px;
-        margin-left: 75px;
-        margin-top: -34px;
+        font-size: 9px;
+        margin-left: 85px;
+        margin-top: 101px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
         font-weight:  <weight>;
@@ -1078,7 +1078,7 @@
     #contact>section:nth-child(2)>div:nth-child(5)>h5{
         color: gray;
         margin-left: 23px;
-        margin-top: 50px;
+        margin-top: 130px;
         font-family: "Hubballi", sans-serif;
         font-weight: 400;
         font-style: normal;
@@ -1088,7 +1088,7 @@
         width: 45px;
         height: 45px;
         background-color: black;
-        margin-left: 30px;
+        margin-left: 25px;
         border-radius: 10px;
         border: 1px solid #59A6EE;
     }
@@ -1111,7 +1111,7 @@
         width: 45px;
         height: 45px;
         background-color: black;
-        margin-left: 100px;
+        margin-left: 95px;
         margin-top: -47px;
         border-radius: 10px;
         border: 1px solid #59A6EE;
@@ -1135,7 +1135,7 @@
         width: 45px;
         height: 45px;
         background-color: black;
-        margin-left: 170px;
+        margin-left: 165px;
         margin-top: -47px;
         border-radius: 10px;
         border: 1px solid #59A6EE;
