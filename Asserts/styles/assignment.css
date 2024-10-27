@@ -865,20 +865,20 @@ h1{
     }
 }
 
-/*media query for Mobile size(375px)*/
-@media all and (max-width: 375px) {
+/*media query for Mobile size(376px)*/
+@media all and (max-width: 376px) {
     #assignment {
-        background: #120D06;
-        width: 375px;
+        background:  #59A6EE;
+        width: 376px;
         height: 2600px;
         margin: 0 auto;
         box-sizing: border-box;
     }
 
     h3 {
-        color: #FD6B11;
+        color:  black;
         position: absolute;
-        left: 25vw;  /* Adjust positioning based on 1440px width */
+        left: 31vw;  /* Adjust positioning based on 1440px width */
         font-size: 10px;
     }
 
@@ -886,17 +886,17 @@ h1{
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 15vw;  /* Adjust positioning based on 1440px width */
+        left: 19vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
         width: 90%;
         margin: 0 auto;
         max-width: 1440px;  /* Set max-width to 1440px */
-        background: #120D06;
+        background:  #59A6EE;
         position: absolute;
         margin-top: 134px;
-        left: 50%;
+        left: 51%;
         transform: translateX(-50%);  /* Center the wrapper */
 
     }
@@ -1025,7 +1025,7 @@ h1{
     .btn {
         width: 100px;
         height: 30px;
-        background: #FD6B11;
+        background:  #59A6EE;
         border-radius: 10px;
         margin-bottom: 20px;
     }

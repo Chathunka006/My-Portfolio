@@ -754,12 +754,12 @@ footer>section:nth-child(6)>div:nth-child(3){
     }
 }
 
-/*media query for Mobile size(375px)*/
-@media all and (max-width: 375px) {
+/*media query for Mobile size(376px)*/
+@media all and (max-width: 376px) {
     footer{
         position: absolute;
         background: black;
-        width: 375px;
+        width: 376px;
         height: 410px;
 
     }
@@ -788,13 +788,10 @@ footer>section:nth-child(6)>div:nth-child(3){
         left: 35vw;
         z-index: 9999;
     }
-    footer>section:first-child>div:nth-child(5)>a>img{
-        left: 70vw;
-        z-index: 9999;
-    }
+
     footer>section:nth-child(2)>div{
-        height: 50px;
-        width: 50px;
+        height: 55px;
+        width: 55px;
         background-color: black;
         position: absolute;
         display: inline;
@@ -802,34 +799,32 @@ footer>section:nth-child(6)>div:nth-child(3){
         left: 0;
         right: 0;
         margin: auto;
-        margin-top: 8px;
-        border: 2px solid #FD6B11;
+        margin-top: 3px;
+        border: 2px solid  #59A6EE;
     }
     footer>section:nth-child(2)>div:hover{
         box-shadow: 2px 3px 30px white;
     }
     footer>section:nth-child(2)>div:nth-child(1){
-        right: 70vw;
+        right: 60vw;
 
     }
     footer>section:nth-child(2)>div:nth-child(2){
-        right: 35vw;
+        right: 20vw;
     }
     footer>section:nth-child(2)>div:nth-child(3){
-        left: 0;
+        left: 30;
     }
     footer>section:nth-child(2)>div:nth-child(4){
-        left: 35vw;
+        left: 60vw;
     }
-    footer>section:nth-child(2)>div:nth-child(5){
-        left: 70vw;
-    }
+
     footer>section:nth-child(3)>p{
         color: grey;
-        font-size: 15px;
+        font-size: 14px;
         position: absolute;
-        left: 50px;
-        margin-right: 450px;
+        left: 40px;
+        margin-right: 210px;
         margin-top: 130px;
         font-family: "Inter", sans-serif;
         font-optical-sizing: auto;
@@ -839,18 +834,18 @@ footer>section:nth-child(6)>div:nth-child(3){
 
     }
     footer>section:nth-child(3)>div{
-        color: #FD6B11;
+        color:  #59A6EE;
         font-size: 17px;
         position: absolute;
-        left: 50px;
+        left: 40px;
         margin-top: 300px;
     }
     footer>section:nth-child(4)>h4{
         color: white;
         font-size: 16px;
         position: absolute;
-        right:60px;
-        margin-top: 130px;
+        right:80px;
+        margin-top: 140px;
     }
     footer>section:nth-child(4)>ul{
         color: grey;
@@ -869,20 +864,20 @@ footer>section:nth-child(6)>div:nth-child(3){
     }
     footer>section:nth-child(5)>h3:first-child>a{
         position: absolute;
-        color: #FD6B11;
-        font-size: 13px;
+        color:  #59A6EE;
+        font-size: 9px;
         /*right: 200px;*/
-        left: 65px;
-        margin-top: 370px;
+        left: 101px;
+        margin-top: 270px;
     }
 
     footer>section:nth-child(5)>h3:nth-child(2)>a{
         position: absolute;
         color: white;
-        font-size: 13px;
+        font-size: 9px;
         /*right: 65px;*/
         left: 190px;
-        margin-top: 370px;
+        margin-top: 270px;
     }
     footer>section:nth-child(6)>div:nth-child(1){
         width: 100vw;

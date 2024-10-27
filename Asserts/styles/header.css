@@ -235,6 +235,61 @@ header>section>h1:hover{
 }
 
 
+/*media query for Mobile size(376px)*/
+@media all and (max-width: 376px) {
+
+        header{
+                    position: fixed;
+                    display: inline-block;
+                    width: 376px;
+                    background-color: lightblue;
+                    height: 45px;
+                    top: 0;
+                    z-index: 9999;
+                }
+
+        header>nav{
+                        position: absolute;
+                        height: fit-content;
+                        right: 7px;
+                        top: -5px;
+                        bottom: 0;
+                        margin: auto;
+                    }
+
+        header>nav>ul>li{
+                    display: inline-block;
+                    right: 0;
+                    padding-left: 2px;
+                    margin: 0px 3px;
+
+                }
+        header>nav>ul>li>a{
+                    text-decoration: none;
+                    font-size: 6px;
+                    color: white;
+                    font-family: "Hubballi", sans-serif;
+                    font-weight: 500;
+                    font-style: normal;
+
+
+                    }
+
+        header>section>h1{
+                        position:absolute;
+                        font-size:13px;
+                        color: white;
+                        margin-left: -63px;
+                        margin-top:14px;
+                    }
+
+}
+
+
+
+
+
+
 
 
 
