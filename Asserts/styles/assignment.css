@@ -1034,7 +1034,7 @@ h1{
 /*media query for Mobile Small size(320px)*/
 @media all and (max-width: 320px) {
     #assignment {
-        background: #120D06;
+        background: #59A6EE;
         width: 320px;
         height: 2400px;
         margin: 0 auto;
@@ -1042,9 +1042,9 @@ h1{
     }
 
     h3 {
-        color: #FD6B11;
+        color: black;
         position: absolute;
-        left: 20vw;  /* Adjust positioning based on 1440px width */
+        left: 28vw;  /* Adjust positioning based on 1440px width */
         font-size: 10px;
     }
 
@@ -1052,7 +1052,7 @@ h1{
         color: white;
         font-size: 30px;
         position: absolute;
-        left: 15vw;  /* Adjust positioning based on 1440px width */
+        left: 19vw;  /* Adjust positioning based on 1440px width */
     }
     .front,
     .back {

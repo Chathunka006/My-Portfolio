@@ -930,11 +930,11 @@ footer>section:nth-child(6)>div:nth-child(3){
 
     }
     footer>section:nth-child(3)>div{
-        color: #FD6B11;
+        color: #59A6EE;
         font-size: 17px;
         position: absolute;
         left: 30px;
-        margin-top: 300px;
+        margin-top: 330px;
     }
     footer>section:nth-child(4)>h4{
         color: white;
@@ -960,20 +960,20 @@ footer>section:nth-child(6)>div:nth-child(3){
     }
     footer>section:nth-child(5)>h3:first-child>a{
         position: absolute;
-        color: #FD6B11;
-        font-size: 13px;
+        color: #59A6EE;
+        font-size: 8px;
         /*right: 200px;*/
-        left: 35px;
-        margin-top: 370px;
+        left: 95px;
+        margin-top: 310px;
     }
 
     footer>section:nth-child(5)>h3:nth-child(2)>a{
         position: absolute;
         color: white;
-        font-size: 13px;
+        font-size: 8px;
         /*right: 65px;*/
-        left: 160px;
-        margin-top: 370px;
+        left: 175px;
+        margin-top: 310px;
     }
     footer>section:nth-child(6)>div:nth-child(1){
         width: 100vw;

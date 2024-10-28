@@ -426,4 +426,78 @@
 
 }
 
+/*media query for Mobile Small size(320px)*/
+@media all and (max-width: 320px) {
+
+                #welcome{
+                    display: flex;
+                    background-color: white;
+                    width: 320px;
+                    height: 700px;
+                    margin-top: 50px;
+
+                }
+                #welcome>section>div:nth-child(1){
+                    position: absolute;
+                    width: 320px;
+                    height: 700px;
+                    background: #59A6EE;
+                    margin-left:0px;
+                }
+                #welcome>section>div:nth-child(1)>img{
+                     width: 320px;
+                     height: 470px;
+                     margin-left: 0px;
+                     position: absolute;
+                     margin-top:-30px;
+
+                 }
+
+                #welcome>section>div:nth-child(2){
+                     position: absolute;
+                     width: 75px;
+                     height: 22px;
+                     background: white;
+                     left:65px;
+                     margin-top:60px;
+                }
+
+                #welcome>section>div:nth-child(2)>h3{
+                    position: absolute;
+                    width: 150px;
+                    height: 80px;
+                    margin-left: -85px;
+                    top:-58px;
+                    font-size: 15px;
+                    color:#59A6EE;
+
+                }
+
+                #welcome>section>div:nth-child(1)>h2{
+                            width: 320px;
+                            height: 100px;
+                            margin-left: -5px;
+                            top:485px;
+                            position: absolute;
+                            font-size: 25px;
+                            color:white;
+
+                }
+
+                #welcome>section>div:nth-child(1)>h1{
+                    width: 280px;
+                    height: 200px;
+                    left: 30px;
+                    top:485px;
+                    position: absolute;
+                    font-size: 37px;
+                    color:white;
+
+
+                }
+
+
+
+}
+
 
