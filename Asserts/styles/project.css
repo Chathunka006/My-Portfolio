@@ -154,7 +154,7 @@
         color: white;
         font-size: 60px;
         position: absolute;
-        left: 42vw;
+        left: 45vw;
     }
     #project>section:nth-child(2){
         display:flex;
@@ -278,8 +278,8 @@
         color: white;
         font-size: 50px;
         position: absolute;
-        left: 40vw;
-        margin-top:50px;
+        left: 43vw;
+        margin-top:47px;
     }
     #project>section:nth-child(2){
         display:flex;
@@ -402,7 +402,7 @@
         color: white;
         font-size: 45px;
         position: absolute;
-        left: 37vw;
+        left: 40vw;
     }
     #project>section:nth-child(2){
         display:flex;
@@ -525,7 +525,7 @@
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 30vw;
+        left: 34vw;
     }
     #project>section:nth-child(2){
         display: flow;
@@ -648,7 +648,7 @@
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 29vw;
+        left: 35vw;
     }
     #project>section:nth-child(2){
         display: flow;
@@ -771,7 +771,7 @@
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 25vw;
+        left: 33vw;
     }
     #project>section:nth-child(2)>section:nth-child(1){
         width: 200px;
