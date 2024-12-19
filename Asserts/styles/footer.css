@@ -71,10 +71,10 @@ footer>section:nth-child(3)>p{
     left: 300px;
     margin-right: 800px;
     margin-top: 180px;
-    font-family: "Inter", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+    font-family: "Oswald", serif;
+                          font-optical-sizing: auto;
+                          font-weight: 400;
+                          font-style: normal;
 
 }
 footer>section:nth-child(3)>div{
@@ -83,6 +83,10 @@ footer>section:nth-child(3)>div{
     position: absolute;
     left: 300px;
     margin-top: 300px;
+    font-family: "Oswald", serif;
+                          font-optical-sizing: auto;
+                          font-weight: 400;
+                          font-style: normal;
 }
 footer>section:nth-child(4)>h4{
     color: white;
@@ -90,6 +94,10 @@ footer>section:nth-child(4)>h4{
     position: absolute;
     right: 520px;
     margin-top: 175px;
+    font-family: "Oswald", serif;
+                          font-optical-sizing: auto;
+                          font-weight: 400;
+                          font-style: normal;
 }
 footer>section:nth-child(4)>ul{
     color: grey;
@@ -105,14 +113,22 @@ footer>section:nth-child(4)>ul>li>a{
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    font-family: "Oswald", serif;
+                          font-optical-sizing: auto;
+                          font-weight: 400;
+                          font-style: normal;
 }
 footer>section:nth-child(5)>h3:first-child>a{
     position: absolute;
     color: #59A6EE;
     font-size: 25px;
     /*right: 200px;*/
-    left: 400px;
+    left: 440px;
     margin-top: 290px;
+    font-family: "Oswald", serif;
+                          font-optical-sizing: auto;
+                          font-weight: 400;
+                          font-style: normal;
 }
 
 footer>section:nth-child(5)>h3:nth-child(2)>a{
@@ -122,6 +138,10 @@ footer>section:nth-child(5)>h3:nth-child(2)>a{
     /*right: 65px;*/
     left: 650px;
     margin-top: 290px;
+    font-family: "Oswald", serif;
+                          font-optical-sizing: auto;
+                          font-weight: 400;
+                          font-style: normal;
 }
 footer>section:nth-child(6)>div:nth-child(1){
     width: 100vw;

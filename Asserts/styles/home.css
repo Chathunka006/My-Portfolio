@@ -9,24 +9,36 @@
     position:absolute;
     color:black;
     font-size:70px;
-    margin-left:-455px;
+    margin-left:-530px;
     margin-top:80px;
+    font-family: "Oswald", serif;
+                  font-optical-sizing: auto;
+                  font-weight: 400;
+                  font-style: normal;
 }
 
 #Home>section:first-child>div:first-child>h2{
     position:absolute;
     color:#59A6EE;
     font-size:80px;
-    margin-left:380px;
+    margin-left:330px;
     margin-top:75px;
+    font-family: "Oswald", serif;
+                  font-optical-sizing: auto;
+                  font-weight: 400;
+                  font-style: normal;
 }
 
 #Home>section:first-child>div:first-child>h3{
     position:absolute;
     color:#59A6EE;
     font-size:80px;
-    margin-top:160px;
+    margin-top:170px;
     margin-left:-530px;
+    font-family: "Oswald", serif;
+                  font-optical-sizing: auto;
+                  font-weight: 400;
+                  font-style: normal;
 }
 
 #Home>section:first-child>div:first-child>h4{
@@ -36,6 +48,10 @@
     margin-left:120px;
     margin-top:300px;
     margin-right:840px;
+    font-family: "Oswald", serif;
+                              font-optical-sizing: auto;
+                              font-weight: 300;
+                              font-style: normal;
 
 }
 
@@ -45,6 +61,10 @@
     font-size:25px;
     margin-left:120px;
     margin-top:550px;
+     font-family: "Oswald", serif;
+                      font-optical-sizing: auto;
+                      font-weight: 400;
+                      font-style: normal;
 }
 
 #Home>section:nth-child(2)>img{
