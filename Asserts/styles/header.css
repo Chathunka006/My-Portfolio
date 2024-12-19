@@ -8,13 +8,17 @@ header{
     z-index: 9999;
 }
 header>section>h1{
-    font-size:45px;
+    font-size:40px;
     color: white;
-    margin-left: -470px;
+    margin-left: -460px;
     margin-top:13px;
-      font-family: "Bebas Neue", serif;
-      font-weight: 400;
+    font-family: "Tektur", serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
       font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+
 
 
 }
@@ -34,7 +38,7 @@ header>nav{
 header>nav>ul>li{
     display: inline-block;
     right: 0;
-    padding-left: 30px;
+    padding-left: 10px;
     margin: 0px 20px;
 
 }
@@ -157,7 +161,7 @@ header>section>h1:hover{
                         position:absolute;
                         font-size:20px;
                         color: white;
-                        margin-left: -180px;
+                        margin-left: -200px;
                         margin-top:18px;
                     }
 
