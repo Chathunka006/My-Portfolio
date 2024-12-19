@@ -234,7 +234,7 @@ h1{
         color: white;
         font-size: 60px;
         position: absolute;
-        left: 39vw;  /* Adjust positioning based on 1440px width */
+        left: 43vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
@@ -389,14 +389,15 @@ h1{
         position: absolute;
         left: 38vw;  /* Adjust positioning based on 1440px width */
         font-size: 15px;
-        margin-top:60px;
+        margin-top:40px;
     }
 
     h1 {
         color: white;
         font-size: 50px;
         position: absolute;
-        left: 32vw;  /* Adjust positioning based on 1440px width */
+        margin-top:43px;
+        left: 37vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
@@ -560,7 +561,7 @@ h1{
         color: white;
         font-size: 45px;
         position: absolute;
-        left: 33vw;  /* Adjust positioning based on 1440px width */
+        left: 39vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
@@ -724,7 +725,7 @@ h1{
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 24vw;  /* Adjust positioning based on 1440px width */
+        left: 31vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
@@ -890,7 +891,7 @@ h1{
         color: white;
         font-size: 35px;
         position: absolute;
-        left: 19vw;  /* Adjust positioning based on 1440px width */
+        left: 28vw;  /* Adjust positioning based on 1440px width */
     }
 
     .wrapper {
@@ -1056,7 +1057,7 @@ h1{
         color: white;
         font-size: 30px;
         position: absolute;
-        left: 19vw;  /* Adjust positioning based on 1440px width */
+        left: 28vw;  /* Adjust positioning based on 1440px width */
     }
     .front,
     .back {
