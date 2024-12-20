@@ -80,7 +80,7 @@ header>section>h1:hover{
     header>nav{
         position: absolute;
         height: fit-content;
-        right: 80px;
+        right: 100px;
         top: 0;
         bottom: 0;
         margin: auto;
@@ -89,7 +89,7 @@ header>section>h1:hover{
     header>section>h1{
         font-size:30px;
         color: white;
-        margin-left: -450px;
+        margin-left: -480px;
         margin-top:20px;
     }
 
@@ -111,14 +111,14 @@ header>section>h1:hover{
                 position:absolute;
                 font-size:25px;
                 color: white;
-                margin-left: -255px;
+                margin-left: -285px;
                 margin-top:24px;
             }
 
         header>nav{
                 position: absolute;
                 height: fit-content;
-                right: 55px;
+                right: 70px;
                 top: 0;
                 bottom: 0;
                 margin: auto;
@@ -161,7 +161,7 @@ header>section>h1:hover{
                         position:absolute;
                         font-size:20px;
                         color: white;
-                        margin-left: -200px;
+                        margin-left: -245px;
                         margin-top:18px;
                     }
 
@@ -239,7 +239,7 @@ header>section>h1:hover{
                         position:absolute;
                         font-size:14px;
                         color: white;
-                        margin-left: -92px;
+                        margin-left: -122px;
                         margin-top:15px;
                     }
 
@@ -290,8 +290,8 @@ header>section>h1:hover{
                         position:absolute;
                         font-size:13px;
                         color: white;
-                        margin-left: -63px;
-                        margin-top:14px;
+                        margin-left: -97px;
+                        margin-top:13px;
                     }
 
 }
@@ -341,7 +341,7 @@ header>section>h1:hover{
                         position:absolute;
                         font-size:13px;
                         color: white;
-                        margin-left: -55px;
+                        margin-left: -84px;
                         margin-top:12px;
                     }
 
