@@ -32,6 +32,13 @@
     <link rel="stylesheet" href="Asserts/styles/contact.css">
     <link rel="stylesheet" href="Asserts/styles/footer.css">
 
+    <!--    Animate.css-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+
+
+    <!--    AOS Library-->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
     <style>
         *{
              margin:0;
@@ -68,7 +75,10 @@
             <h1>WELCOME TO MY WORLD</h1>
         </div>
         <div>
-            <h3>Hi There !</h3>
+            <h3  data-aos="fade-right"
+                 data-aos-anchor="#example-anchor"
+                 data-aos-offset="500"
+                 data-aos-duration="900">Hi There !</h3>
         </div>
     </section>
 
@@ -78,10 +88,21 @@
 <main id="Home">
     <section>
         <div>
-        <h1>Hi , I'm </h1>
-        <h2>Chathunka</h2>
-        <h3> Thushan</h3>
-        <h4> I am Chathunka Thunshan , and currently an
+        <h1 data-aos="fade-right"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="900">Hi , I'm </h1>
+        <h2 data-aos="fade-left"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="900">Chathunka</h2>
+        <h3 data-aos="fade-up"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="900"> Thushan</h3>
+        <h4 data-aos="fade-down"
+            data-aos-easing="linear"
+            data-aos-duration="1500"> I am Chathunka Thunshan , and currently an
             undergraduate software engineer. With a
             passion for technology and a curiosity that
             drives me , iam on an exciting journey to
@@ -94,7 +115,7 @@
     </section>
 
     <section>
-        <img src="Asserts/Images/WhatsApp%20Image%202024-07-26%20at%2016.58.28_f0eac899.jpg" >
+        <img  src="Asserts/Images/WhatsApp%20Image%202024-07-26%20at%2016.58.28_f0eac899.jpg" >
     </section>
 
     <section>
@@ -114,8 +135,14 @@
 <main id="About">
     <section>
 
-            <h3>visit my portfolio and keep your feedback</h3>
-            <h1>ABOUT ME</h1>
+            <h3 data-aos="fade-down"
+                data-aos-anchor="#example-anchor"
+                data-aos-offset="500"
+                data-aos-duration="500">visit my portfolio and keep your feedback</h3>
+            <h1 data-aos="fade-up"
+                data-aos-anchor="#example-anchor"
+                data-aos-offset="500"
+                data-aos-duration="500" >ABOUT ME</h1>
 
     </section>
     <section>
@@ -153,9 +180,15 @@
 <!--Professional skill section-->
 <main id="skill">
     <section>
-        <h3>Always adding something to my skills</h3>
+        <h3 data-aos="fade-down"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="500">Always adding something to my skills</h3>
         <div>
-            <h1>PROFESSIONAL SKILLS</h1>
+            <h1 data-aos="fade-up"
+                data-aos-anchor="#example-anchor"
+                data-aos-offset="500"
+                data-aos-duration="500">PROFESSIONAL SKILLS</h1>
         </div>
     </section>
     <section>
@@ -202,9 +235,15 @@
 <!--Education section-->
 <main id="education">
     <section>
-        <h3 data-aos="fade-down">There is no end to Education</h3>
+        <h3 data-aos="fade-down"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="500">There is no end to Education</h3>
         <div>
-            <h1 data-aos="fade-up">EDUCATION</h1>
+            <h1 data-aos="fade-up"
+                data-aos-anchor="#example-anchor"
+                data-aos-offset="500"
+                data-aos-duration="500">EDUCATION</h1>
         </div>
     </section>
     <section>
@@ -257,9 +296,15 @@
 <!--Project section-->
 <main id="project">
     <section>
-        <h3 data-aos="fade-down">Discover out latest project</h3>
+        <h3 data-aos="fade-down"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="500"">Discover out latest project</h3>
         <div>
-            <h1 data-aos="fade-up">PROJECT</h1>
+            <h1 data-aos="fade-up"
+                data-aos-anchor="#example-anchor"
+                data-aos-offset="500"
+                data-aos-duration="500">PROJECT</h1>
         </div>
     </section>
     <section>
@@ -473,9 +518,15 @@
 <!--Contact section-->
 <main id="contact">
     <section>
-        <h3 data-aos="fade-down">Contact with me</h3>
+        <h3 data-aos="fade-down"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="500">Contact with me</h3>
         <div>
-            <h1 data-aos="fade-up">CONTACT</h1>
+            <h1 data-aos="fade-up"
+                data-aos-anchor="#example-anchor"
+                data-aos-offset="500"
+                data-aos-duration="500">CONTACT</h1>
         </div>
     </section>
     <section>
@@ -590,7 +641,10 @@
         <div></div>
     </section>
 </footer>
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
 </body>
 
 </html>
